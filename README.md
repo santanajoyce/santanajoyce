@@ -1,6 +1,6 @@
 ### Olá mundo!
 
-- 🔭 Atualmente estou trabalhando na área de administração e tecnologia.
+- 🔭 Trabalhei recentemente na área de administração e tecnologia.
 - 🌱 Atualmente estou aprendendo, Big data e ciência analitica e ADS (Ultimo semestre de ambos).
 - 👯 Estou procurando colaborar em projetos em python.
 - 🤔 Estou procurando ajuda com a minha transição de carreira. 
